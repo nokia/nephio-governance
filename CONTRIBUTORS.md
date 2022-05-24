@@ -6,6 +6,7 @@ As documented in the [charter](https://nephio.org/wp-content/uploads/sites/6/202
 the TSC is responsible for all technical oversight of the Project. The current
 TSC members are:
   - Kandan Kathirval, Google (chair)
+  - Timo Perala, Nokia
 
 ## Contributors and committers
   - John Belamaric, [johnbelamaric](https://github.com/johnbelamaric), Google, Committer
@@ -17,3 +18,7 @@ TSC members are:
   - Tom Kivlin, [tomkivlin](https://github.com/tomkivlin), Vodafone
   - Riccardo Gasparetto-Stori, [rgstori](https://github.com/rgstori), Vodafone
   - Selcuk Duman, [selcukduman](https://github.com/selcukduman), Vodafone
+  - Timo Perala, [timop62](https://github.com/timop62), Nokia
+  - Jean-Marie Calmel, [JeanMarieCalmel](https://github.com/JeanMarieCalmel), Nokia
+  - Wim Henderickx, [henderiw](https://github.com/henderiw), Nokia
+  - Istvan Kispal, [kispaljr](https://github.com/kispaljr), Nokia
